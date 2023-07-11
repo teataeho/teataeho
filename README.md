@@ -6,9 +6,6 @@
 
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teataeho&exclude_repo=teataeho.github.io&layout=compact&theme=transparent" />
-</a>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=teataeho&theme=transparent&show_icons=true" width="42%" />
-</a>
+</a
 
 
